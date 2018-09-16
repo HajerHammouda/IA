@@ -1,0 +1,7 @@
+Parcours : ['A', 'B'] 
+
+Chemin : ['A', 'B'] 
+
+Cout :  1 
+
+Temps d'execution :  0.0040 secondes
